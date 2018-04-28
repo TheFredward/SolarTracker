@@ -1,13 +1,11 @@
 /* Sweep
   by BARRAGAN <http://barraganstudio.com>
-  This example code is in the public domain.
-
-  modified 8 Nov 2013
-  by Scott Fitzgerald
-  http://www.arduino.cc/en/Tutorial/Sweep
-
-  modified April 2018
-  by Hamza Memon
+  base code found here.
+  
+  Later,
+  Modified April 2018
+  by Hamza Memon to implement two servos 
+  and photoresistors for control
   
 */
 
